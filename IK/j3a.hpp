@@ -1,10 +1,3 @@
-//
-//  j3a.hpp
-//  IK
-//
-//  Created by Hyun Joon Shin on 5/8/25.
-//
-
 #ifndef j3a_h
 #define j3a_h
 
